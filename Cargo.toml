@@ -1,0 +1,7 @@
+[package]
+name = "mathy"
+version = "0.0.1"
+authors = ["George Burton <burtonageo@gmail.com>"]
+
+[dependencies.printerr]
+git = "https://github.com/burtonageo/printerr"
